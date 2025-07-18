@@ -6,25 +6,25 @@ This project is an **Amazon homepage clone** built using **HTML** and **CSS**. D
 
 ## ⚙️ Features  
 
-✅ **📱 Responsive Design**
+✅ **Responsive Design**
 A modern and sleek layout that **works seamlessly across all devices**.  
 
-✅ **🔎 Search Bar**
+✅ **Search Bar**
 Allows users to **quickly and easily search for products**.  
 
-✅ **🛒 Navigation Bar**
+✅ **Navigation Bar**
 Provides easy access to **account details, categories, and the shopping cart**.  
 
-✅ **🎯 Featured Products**
+✅ **Featured Products**
 Highlights the **most popular products** with prices and details.  
 
-✅ **🔥 Discounted Deals**
+✅ **Discounted Deals**
 Showcases **current promotions and special offers**.  
 
-✅ **🌎 Location Selection**
+✅ **Location Selection**
 Enables users to **set their delivery address**.  
 
-✅ **📩 Contact & Customer Support**
+✅ **Contact & Customer Support**
 Includes **order tracking, returns, and customer service links**.  
 
 ---
